@@ -1,6 +1,6 @@
 # Enoe-ocupaci-n
 
-Descripción de la carpeta (Dropbox — enoe)
+Descripción de la carpeta dentro de la principal materia_indicadores (Dropbox — materia indicadores - enoe)
 
 La carpeta principal está organizada en tres subcarpetas:
 
